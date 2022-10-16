@@ -78,7 +78,7 @@ docker run -d --name tndrdt -p "8888:8888" -p "28686:28686" --restart unless-sto
 ```
 #### Check logs
 ```
-docker logs -f --tail 20 tenderduty
+docker logs -f --tail 20 tndrdt
 ```
 #### Check information in browser (insert your ip of tenderduty server instead 000 and don't delete port 8888)
 ```
