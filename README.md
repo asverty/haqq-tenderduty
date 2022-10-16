@@ -82,6 +82,6 @@ docker logs -f --tail 20 tndrdt
 ```
 #### Check information in browser (insert your ip of tenderduty server instead 000 and don't delete port 8888)
 ```
-http://000.000.008.800:8888/
+http://000.000.000.000:8888/
 ```
 
